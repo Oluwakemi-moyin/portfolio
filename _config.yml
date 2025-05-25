@@ -1,5 +1,5 @@
 title: Oluwakemi Alamu
-#logo: "C:\Users\USER\Pictures\Saved Pictures\image.jpg"
+#logo: asset/image.jpg
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
